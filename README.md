@@ -65,7 +65,7 @@ This paper is currently under review. A formal citation (with journal, volume, D
 ```bibtex
 @misc{shophallu2026,
   title  = {ShopHallu: A Benchmark Dataset and Evaluation Framework for Detecting Hallucination in LLM-Generated Influencer-Style Product Reviews},
-  author = {Fariha, Nahian and Tasnim, Farzana and Nahar, Lutfun},
+  author = {Nahian Fariha and Farzana Tasnim and Lutfun Nahar},
   year   = {2026},
   note   = {Under review},
   howpublished = {\url{https://github.com/nahianfariha/ShopHallu}}
