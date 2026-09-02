@@ -81,4 +81,4 @@ See the `LICENSE` file in this repo for the full code license text.
 
 ## Contact
 
-For questions, open an issue or contact [your email].
+For questions, open an issue or contact nahianfariha.cs@gmail.com
