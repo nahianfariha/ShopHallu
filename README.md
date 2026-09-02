@@ -60,18 +60,24 @@ Run notebooks in order: `01_dataset_generation.ipynb` → `02_rule_based_analysi
 
 ## Citation
 
+This paper is currently under review. A formal citation (with journal, volume, DOI) will be added here once it is accepted/published. Until then, please cite this repository directly:
+
 ```bibtex
-@article{shophallu2026,
-  title   = {ShopHallu: A Benchmark Dataset and Evaluation Framework for Detecting Hallucination in LLM-Generated Influencer-Style Product Reviews},
-  author  = {Fariha, Nahian and Tasnim, Farzana and Nahar, Lutfun},
-  journal = {TBD},
-  year    = {2026}
+@misc{shophallu2026,
+  title  = {ShopHallu: A Benchmark Dataset and Evaluation Framework for Detecting Hallucination in LLM-Generated Influencer-Style Product Reviews},
+  author = {Fariha, Nahian and Tasnim, Farzana and Nahar, Lutfun},
+  year   = {2026},
+  note   = {Under review},
+  howpublished = {\url{https://github.com/nahianfariha/ShopHallu}}
 }
 ```
 
 ## License
 
-<!-- TODO: choose a license (MIT / CC-BY-4.0 for data) -->
+- **Code** (notebooks, scripts) is released under the [MIT License](LICENSE).
+- **Dataset** (`data/`) is released under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you may use, share, and adapt it, provided appropriate credit is given.
+
+See the `LICENSE` file in this repo for the full code license text.
 
 ## Contact
 
