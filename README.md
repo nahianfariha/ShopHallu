@@ -27,9 +27,6 @@ ShopHallu/
 │   ├── 02_rule_based_analysis_for_annotation.ipynb
 │   └── 03_evaluation.ipynb
 ├── figures/                 # Figures used in the paper
-├── docs/
-│   └── dataset_card.md      # Dataset description, collection process, license
-├── requirements.txt
 └── README.md
 ```
 
